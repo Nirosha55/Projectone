@@ -2,7 +2,9 @@ import React  from "react";
 
 function Footer() {
     return (
-        <Footer>Copyright ⓒ 2024</Footer>
+        <div>
+             <footer>Copyright ⓒ 2024</footer>
+        </div>
     );
 }
 

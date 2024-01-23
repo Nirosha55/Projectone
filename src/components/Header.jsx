@@ -1,8 +1,11 @@
 import React  from "react";
 
 function Header() {
-    return (
-        <Header>Vanshika Keeper</Header>
+    return(
+    <div>
+            <header>Vanshika Keeper</header>
+
+    </div>
     );
 }
 

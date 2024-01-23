@@ -4,13 +4,12 @@ import Footer from './Footer';
 import Note from './Note';
 
 function App() {
-    return(
-<div>
-    <Header />
-    <Note />
-    <Footer />
-</div>
-    );
+    return <div>
+        <Header/>
+        <Footer/>
+        <Note/>
+    </div>
+
 }
 
 export default App;
